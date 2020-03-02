@@ -1,0 +1,26 @@
+python-octavia-lib (1.4.0-0ubuntu1~cloud0) bionic-train; urgency=medium
+
+  * New update for the Ubuntu Cloud Archive.
+
+ -- Openstack Ubuntu Testing Bot <openstack-testing-bot@ubuntu.com>  Wed, 25 Sep 2019 20:31:45 +0000
+
+python-octavia-lib (1.4.0-0ubuntu1) eoan; urgency=medium
+
+  * New upstream release for OpenStack Train.
+  * d/control: Align (Build-)Depends with upstream.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Wed, 25 Sep 2019 14:11:31 -0400
+
+python-octavia-lib (1.2.0-0ubuntu1) eoan; urgency=medium
+
+  * New upstream release for OpenStack Train.
+  * d/control: Align (Build-)Depends with upstream.
+  * d/gbp.conf: Align with other Ubuntu OpenStack packages.
+
+ -- Corey Bryant <corey.bryant@canonical.com>  Tue, 30 Jul 2019 15:33:00 -0400
+
+python-octavia-lib (1.1.1-0ubuntu1) disco; urgency=low
+
+  * Initial release.
+
+ -- James Page <james.page@ubuntu.com>  Tue, 19 Mar 2019 09:46:14 +0000
